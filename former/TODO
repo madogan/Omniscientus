@@ -1,0 +1,27 @@
+# Add comments will be fixed
+# Update comments of video
+# Historical sentiment analysis (example: this month abusive comment number is increased)
+# Increasing amount of fans (fans: followers who has sent more then determined number)
+# Increasing amount of major sentiment class of fans
+# top 100 commentators
+# top 100 comments
+# get channel statistic
+# get video statistic
+# get notification of channel
+# send notification
+# add payment history
+# get payment history
+
+
+Belli aralıklarla istatistikleri güncellemeliyiz
+
+
+### -> Youtube API
+### <- Youtube API
+### -> Database
+# Function for removing duplications
+### <- Database
+### -> Logging
+### <- Logging
+### -> Test
+### <- Test

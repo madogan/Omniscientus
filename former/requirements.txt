@@ -1,0 +1,12 @@
+googleapiclient
+requests
+pymongo
+youtube-dl
+pafy
+isodate==0.6.0
+google-api-python-client==1.7.5
+google-auth==1.6.1
+google-auth-httplib2==0.0.3
+google-auth-oauthlib==0.2.0
+request==2018.11.20
+flask

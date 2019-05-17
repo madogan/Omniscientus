@@ -1,0 +1,43 @@
+{% extends "user/user_base.html" %}
+
+{% block title %}Destek{% endblock %}
+
+{% block sidebar_color %}{% endblock %}
+
+{% block name_abbr %}MAD{% endblock %}
+
+{% block first_name %}MUHAMMED ALİ{% endblock %}
+
+{% block current_page_name %}Destek{% endblock %}
+
+{% block user_image_source %}../static/img/user/anime3.png{% endblock %}
+
+{% block head %}{% endblock %}
+
+{% block body %}
+<div class="card card-nav-tabs text-center">
+  <div class="card-header card-header-primary">
+    Featured
+  </div>
+  <div class="card-body">
+    <h4 class="card-title">Special title treatment</h4>
+    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+  </div>
+  <div class="card-footer text-muted">
+    2 days ago
+  </div>
+</div>
+<div class="card">
+  <div class="card-body">
+    <form>
+      <div class="form-group">
+        <label for="exampleFormControlTextarea1">Öneri / Şikayet / Talep / Eleştiri</label>
+        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Buraya yazınız..."></textarea>
+      </div>
+      <button type="submit" class="btn btn-primary">Gönder</button>
+    </form>
+  </div>
+</div>
+{% endblock %}
+
+{% block scripts %}{% endblock %}
